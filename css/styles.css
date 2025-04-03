@@ -794,6 +794,7 @@ footer {
     color: var(--gold);
     padding-left: 5px;
 }
+
 .footer-links a:focus,
 .social-links a:focus {
     outline: 2px solid var(--gold);
